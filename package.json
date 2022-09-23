@@ -1,0 +1,15 @@
+{
+  "name": "communipic",
+  "version": "1.0.0",
+  "description": "The new unicorn startup that is going to Uranus!!!",
+  "main": "index.js",
+  "dependencies": {
+    "express":"4.18.1",
+    "react":"0.0.0-experimental-d1bb1c586-20220922"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergio Santiago",
+  "license": "ISC"
+}
